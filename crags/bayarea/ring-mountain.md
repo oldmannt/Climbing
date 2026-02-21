@@ -8,3 +8,5 @@ GoogleMap: https://maps.app.goo.gl/wZiVVBwWfjTEw3Rt9
 Parking: https://maps.app.goo.gl/XjcDcNdSDR8ujHAR6  十几个街趴  
 
 路书照片：
+<img alt="image" src="https://github.com/oldmannt/Climbing/blob/main/crags/bayarea/ring-mountain-split-rock-1.png?raw=true" />  
+<img alt="image" src="https://github.com/oldmannt/Climbing/blob/main/crags/bayarea/ring-mountain-split-rock-2.png?raw=true" />  
